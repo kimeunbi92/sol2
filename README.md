@@ -1,5 +1,8 @@
-# sol3
-#ubuntu@u1:~$ set TF_VAR_AWS_ACCESS_KEY=AKIAS4UJ5OSA3Y4RA3QL TF_VAR_AWS_REGION=eu-west-1 TF_VAR_AWS_SECRET_KEY=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
+# sol2
+#ubuntu@u1:~$ set 
+TF_VAR_AWS_ACCESS_KEY=AKIAS4UJ5OSA3Y4RA3QL 
+TF_VAR_AWS_REGION=eu-west-1 
+TF_VAR_AWS_SECRET_KEY=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
 
 #ubuntu@u1:/mnt/hgfs/Desktop/sol3$ cp -r ../terraform-course/.terraform ./
 #ubuntu@u1:/mnt/hgfs/Desktop/sol3$ ta
