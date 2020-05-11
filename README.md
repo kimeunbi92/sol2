@@ -1,11 +1,11 @@
 # sol2
-#ubuntu@u1:~$ set 
+# ubuntu@u1:~$ set 
 TF_VAR_AWS_ACCESS_KEY=AKIAS4UJ5OSA3Y4RA3QL 
 TF_VAR_AWS_REGION=eu-west-1 
 TF_VAR_AWS_SECRET_KEY=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
 
-#ubuntu@u1:/mnt/hgfs/Desktop/sol3$ cp -r ../terraform-course/.terraform ./
-#ubuntu@u1:/mnt/hgfs/Desktop/sol3$ ta
+# ubuntu@u1:/mnt/hgfs/Desktop/sol3$ cp -r ../terraform-course/.terraform ./
+# ubuntu@u1:/mnt/hgfs/Desktop/sol3$ ta
 ```
 terraform destroy -auto-approve
 terraform init
@@ -1690,7 +1690,7 @@ Apply complete! Resources: 5 added, 0 changed, 0 destroyed.
             "public_ip": "52.79.94.144",
             "public_ip": "13.209.21.21",
 ```
-#ubuntu@u1:/mnt/hgfs/Desktop/sol3$ td
+# ubuntu@u1:/mnt/hgfs/Desktop/sol3$ td
 ```
 terraform destroy -auto-approve
 
